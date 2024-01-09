@@ -1,16 +1,12 @@
 # musigo
+A simple music player app designed with Flutter and Dart. It uses the DeezerAPI from RapidAPI to access song data and uses Firebase as the backend.
 
-A simple music player app designed with Flutter and Dart.
+Features:
+1. Sign-up and Sign-in users using Firebase Authentication.
+2. A welcome page, search page, and playlists page.
+3. Search songs by genre
+4. Search songs by artist name or song name.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features To Be Added:
+1. Playback Support (under development).
+2. Feature to add songs to playlists.
