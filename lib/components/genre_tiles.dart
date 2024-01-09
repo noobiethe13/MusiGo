@@ -12,7 +12,7 @@ class GenreTile extends StatelessWidget {
     final dio = Dio();
     final url = 'https://deezerdevs-deezer.p.rapidapi.com/search?q=$genre';
     final headers = {
-      'x-rapidapi-key': '209e51b72amshf0cf8e6c8004ae6p1b6cf9jsne5e69d81f194',
+      'x-rapidapi-key': 'personal_key',
       'x-rapidapi-host': 'deezerdevs-deezer.p.rapidapi.com',
     };
 
