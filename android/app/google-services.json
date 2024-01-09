@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072376038506",
+    "project_id": "musigo-409315",
+    "storage_bucket": "musigo-409315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072376038506:android:0df560cf8994730d5e3613",
+        "android_client_info": {
+          "package_name": "com.example.musigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sgon-1iI2rnAUQyNFRsLrc7a-hUKR9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
