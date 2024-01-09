@@ -105,7 +105,7 @@ class _SearchPageState extends State<SearchPage> {
                         });
                     try {
                       await audioPlayer.setAudioSource(AudioSource.uri(Uri.parse(
-                          "https://s3.amazonaws.com/scifri-episodes/scifri20181123-episode.mp3")));
+                          "preview_link")));
                     } catch (e) {
                       print("Error loading audio source: $e");
                     }
@@ -127,7 +127,7 @@ class _SearchPageState extends State<SearchPage> {
         'https://deezerdevs-deezer.p.rapidapi.com/search?q=${_searchController.text}';
     final headers = {
       'x-rapidapi-key':
-      '209e51b72amshf0cf8e6c8004ae6p1b6cf9jsne5e69d81f194',
+      'personal_key',
       'x-rapidapi-host': 'deezerdevs-deezer.p.rapidapi.com',
     };
     try {
