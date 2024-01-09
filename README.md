@@ -10,3 +10,7 @@ Features:
 Features To Be Added:
 1. Playback Support (under development).
 2. Feature to add songs to playlists.
+
+App Functionality Recording:
+https://github.com/noobiethe13/MusiGo/assets/120400505/2df69f06-b52d-4b34-9e04-5bc097d27f58
+
